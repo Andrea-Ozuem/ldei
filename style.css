@@ -562,7 +562,14 @@ footer .links {
 /* Programs */
 .programs_img {
     align-self: center;
+    height: 300px;
 }
+
+.programs_img img {
+    height: 100%;
+    width: 100%;
+}
+
 .post_meta {
     margin: 12px auto;
     width: fit-content;
